@@ -3,7 +3,7 @@
 A collection of hardware components to assist in robotics research.
 The `.STL` files for each part is contained in its own folder.
 
-If you find Robot Parts useful in your research. Please cite `DayDreamer`, the original work where these appeared.
+If you find Robot Parts useful in your research. Please cite `DayDreamer`, the original work where this appeared.
 
 ```
 @article{Wu22CoRL_DayDreamer,
@@ -15,7 +15,7 @@ If you find Robot Parts useful in your research. Please cite `DayDreamer`, the o
 ```
 
 ### Go1 Turtle Shell
-A protective shell for the Unitree Go1 quadruped. This is the same shell as the A1 but with screw hole pattern for the Go1.
+A protective shell for the Unitree Go1 quadruped. This is the same as the shell for the A1 but with a screw hole pattern for the Go1.
 Additionally the version for the Go1 is a single contiguous part.
 
 <p align="middle">
