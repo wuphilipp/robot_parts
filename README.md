@@ -19,8 +19,8 @@ A protective shell for the Unitree Go1 quadruped. This is the same shell as the 
 Additionally the version for the Go1 is a single contiguous part.
 
 <p align="middle">
-    <img src="_images/go1_turtle_shell_render_full.png" height="300"/>
-    <img src="_images/go1_turtle_shell_real_closeup.jpg" height="300"/>
+    <img src="_images/go1_turtle_shell_render_full.png" height="250"/>
+    <img src="_images/go1_turtle_shell_real_closeup.jpg" height="250"/>
 </p>
 
 ### A1 Turtle Shell
@@ -30,8 +30,8 @@ A protective shell for the Unitree A1 quadruped. Features:
  * Open access to all ports on top of the robot
 
 <p align="middle">
-    <img src="_images/a1_turtle_shell_render_full.JPG" height="300"/>
-    <img src="_images/a1_turtle_shell_real_closeup.JPG" height="300"/>
+    <img src="_images/a1_turtle_shell_render_full.JPG" height="250"/>
+    <img src="_images/a1_turtle_shell_real_closeup.JPG" height="250"/>
 </p>
 
 
